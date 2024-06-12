@@ -19,3 +19,7 @@ Hot reload server: Using live-server, command live-server . --port=8181 --no-bro
 ## Build
 
 Check all meta and link before deploy
+
+## Deploy
+
+firebase hosting
